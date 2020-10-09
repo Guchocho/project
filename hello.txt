@@ -7,5 +7,5 @@ hello git!hello everyone!
 hello git!hello everyone!$$$$$$$$$$$$$$$$$$
 hello git!hello everyone!
 hello git!hello everyone!master
-hello git!hello everyone!
+hello git!hello everyone!hot-fix!version2
 hello git!hello everyone!hot-fix
